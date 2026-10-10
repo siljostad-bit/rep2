@@ -25,7 +25,7 @@ library(performance)
 library(tidyverse)
 ```
 
-#Load dataset
+#Loaded the dataset
 ```{r}
 df_WOLFPUPS<-read_csv("WOLFPUPS.csv")
 ```
@@ -46,7 +46,7 @@ hist(df_WOLFPUPS$PUPS)
 df_WOLFPUPS.corr <- df_WOLFPUPS%>%
   filter(YEAR<2026)
 ```
-#Checking corrected data
+#Removed the datapoint from 2086 as it was a mistake, then checking the corrected data
 ```{r}
 plot(df_WOLFPUPS.corr)
 
