@@ -1,3 +1,16 @@
-# rep2
-Repository for assignment 2
-This is a line from r studios
+# Assignment 2 
+
+## Description
+Examining how wolf pup numbers are associated with moose abundance, 
+wolf parasite load, and hunting permits.
+
+## Requirements
+- R
+- Required R packages
+- library(car)
+- library(GGally)
+- library(performance)
+- library(tidyverse)
+
+## Usage
+Run the R scripts in the project folder.
