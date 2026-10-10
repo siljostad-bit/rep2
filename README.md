@@ -2,7 +2,8 @@
 
 ## Description
 Examining how wolf pup numbers are associated with moose abundance, 
-wolf parasite load, and hunting permits.
+wolf parasite load, and hunting permits. 
+This analysis was conducted by Simen Ljøstad for an assignment in science reproducability. 
 
 ## Requirements
 - R
@@ -14,5 +15,3 @@ wolf parasite load, and hunting permits.
 
 ## Usage
 Run the R scripts in the project folder.
-
-test
