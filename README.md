@@ -15,3 +15,7 @@ This analysis was conducted by Simen Ljøstad for an assignment in science repro
 
 ## Usage
 Run the R scripts in the project folder.
+
+
+Reproducibilty check: 
+
