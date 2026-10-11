@@ -18,4 +18,4 @@ Run the R scripts in the project folder.
 
 
 Reproducibilty check: 
-
+The check went smoothly, it was possible to reproduce for a fellow student. 
